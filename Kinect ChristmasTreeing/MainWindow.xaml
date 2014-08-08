@@ -1,0 +1,11 @@
+﻿<Window x:Class="Kinect_ChristmasTreeing.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect ChristmasTreeing" Height="1024" Width="1280" Loaded="Window_Loaded" Closed="Window_Closed" Visibility="Visible">
+    <Grid>
+        <Image Height="1024" HorizontalAlignment="Left" Margin="0,0,0,0" Name="rgbImageContainer" Stretch="Fill" VerticalAlignment="Top" Width="1280" />
+        <Canvas Name="MainCanvas">
+            <Image Height="224" HorizontalAlignment="Left" Margin="224,142,0,0" Name="treeImageContainer" Stretch="Fill" VerticalAlignment="Top" Width="361" Visibility="Hidden" Panel.ZIndex="0" Source="/Kinect%20ChristmasTreeing;component/Images/christmastree.png" />
+        </Canvas>
+    </Grid>
+</Window>

@@ -1,0 +1,27 @@
+C:\Users\sebastian\AppData\Local\Temporary Projects\Kinect ChristmasTreeing\bin\Debug\Kinect ChristmasTreeing.exe
+C:\Users\sebastian\AppData\Local\Temporary Projects\Kinect ChristmasTreeing\bin\Debug\Kinect ChristmasTreeing.pdb
+C:\Users\sebastian\AppData\Local\Temporary Projects\Kinect ChristmasTreeing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sebastian\AppData\Local\Temporary Projects\Kinect ChristmasTreeing\obj\x86\Debug\MainWindow.baml
+C:\Users\sebastian\AppData\Local\Temporary Projects\Kinect ChristmasTreeing\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sebastian\AppData\Local\Temporary Projects\Kinect ChristmasTreeing\obj\x86\Debug\App.g.cs
+C:\Users\sebastian\AppData\Local\Temporary Projects\Kinect ChristmasTreeing\obj\x86\Debug\Kinect ChristmasTreeing_MarkupCompile.cache
+C:\Users\sebastian\AppData\Local\Temporary Projects\Kinect ChristmasTreeing\obj\x86\Debug\Kinect ChristmasTreeing.g.resources
+C:\Users\sebastian\AppData\Local\Temporary Projects\Kinect ChristmasTreeing\obj\x86\Debug\Kinect_ChristmasTreeing.Properties.Resources.resources
+C:\Users\sebastian\AppData\Local\Temporary Projects\Kinect ChristmasTreeing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sebastian\AppData\Local\Temporary Projects\Kinect ChristmasTreeing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sebastian\AppData\Local\Temporary Projects\Kinect ChristmasTreeing\obj\x86\Debug\Kinect ChristmasTreeing.exe
+C:\Users\sebastian\AppData\Local\Temporary Projects\Kinect ChristmasTreeing\obj\x86\Debug\Kinect ChristmasTreeing.pdb
+C:\Users\sebastian\documents\visual studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\obj\x86\Debug\Kinect ChristmasTreeing.exe
+C:\Users\sebastian\documents\visual studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\obj\x86\Debug\Kinect ChristmasTreeing.pdb
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\bin\Debug\Kinect ChristmasTreeing.exe
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\bin\Debug\Kinect ChristmasTreeing.pdb
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\obj\x86\Debug\MainWindow.baml
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\obj\x86\Debug\App.g.cs
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\obj\x86\Debug\Kinect ChristmasTreeing_MarkupCompile.cache
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\obj\x86\Debug\Kinect ChristmasTreeing.g.resources
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\obj\x86\Debug\Kinect_ChristmasTreeing.Properties.Resources.resources
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\obj\x86\Debug\Kinect ChristmasTreeing.csprojResolveAssemblyReference.cache
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Kinect ChristmasTreeing\Kinect ChristmasTreeing\obj\x86\Debug\Kinect ChristmasTreeing.csproj.GenerateResource.Cache
